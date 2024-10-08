@@ -1,0 +1,13 @@
+version: "3"
+services:
+  server:
+    build: ./server
+    ports:
+      - "2107:2107"
+    # volumes:
+    #   - /app/node_modules
+  client:
+    build: ./client
+    ports:
+      - "2108:2108"
+ 

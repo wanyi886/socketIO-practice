@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "handle": "My name is UUUUser",
+      "email": "theuser@user.com",
+      "password": "abc123",
+      "hashedPassword": "$2b$10$Bw40tP2jN47HlV7i.zkAbe5b3hm5Q0wcOa8ZcH96CwgvG1mxeW9K."
+    },
+    {
+      "id": "2",
+      "handle": "Test User 111",
+      "email": "test@test.com",
+      "password": "test",
+      "hashedPassword": "test"
+    }
+  ]
+}
